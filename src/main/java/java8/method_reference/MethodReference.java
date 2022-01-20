@@ -1,4 +1,4 @@
-package java8;
+package java8.method_reference;
 
 import java.util.function.BiFunction;
 
